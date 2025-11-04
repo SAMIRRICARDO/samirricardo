@@ -1,12 +1,12 @@
-# 🚀 Samir Ricardo — Desenvolvedor de Software Full Stack | Cloud • DevOps • SaaS
+#  Samir Ricardo — Desenvolvedor de Software Full Stack | Cloud • DevOps • SaaS
 
 Sou um **Desenvolvedor de Software Full-Stack** especializado em **arquitetura de sistemas, automação de deploys e integração em nuvem**.  
 Atuo no ciclo completo — do código à entrega em produção — unindo **engenharia, experiência do usuário e cultura DevOps**.
 
-💡 **Stack Principal:**  
+ **Stack Principal:**  
 Python (Flask / FastAPI) • JavaScript / TypeScript • TailwindCSS • Docker • NGINX • GitHub Actions (CI/CD)  
-☁️ **Cloud:** Oracle Cloud • Azure • Linux (Ubuntu Server) • DNS • SSL/TLS • Monitoramento e Deploys Automatizados  
-🧠 **Boas Práticas:** SOLID • Clean Code • GitFlow • Testes Automatizados (Pytest / Jest)
+ **Cloud:** Oracle Cloud • Azure • Linux (Ubuntu Server) • DNS • SSL/TLS • Monitoramento e Deploys Automatizados  
+ **Boas Práticas:** SOLID • Clean Code • GitFlow • Testes Automatizados (Pytest / Jest)
 
 ---
 
