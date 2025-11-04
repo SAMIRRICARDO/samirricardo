@@ -1,6 +1,6 @@
-# 🚀 Samir Ricardo — Engenheiro de Software | Cloud • DevOps • SaaS
+# 🚀 Samir Ricardo — Desenvolvedor de Software Full Stack | Cloud • DevOps • SaaS
 
-Sou um **Engenheiro de Software Full-Stack** especializado em **arquitetura de sistemas, automação de deploys e integração em nuvem**.  
+Sou um **Desenvolvedor de Software Full-Stack** especializado em **arquitetura de sistemas, automação de deploys e integração em nuvem**.  
 Atuo no ciclo completo — do código à entrega em produção — unindo **engenharia, experiência do usuário e cultura DevOps**.
 
 💡 **Stack Principal:**  
