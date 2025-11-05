@@ -8,7 +8,7 @@ Atuo em todas as etapas do ciclo de vida da aplicação — **do código à prod
 
 ##  Stack Principal
 
-**Backend:** Python (Flask / FastAPI) • SQLite • PostgreSQL  
+**Backend:** Python (FastAPI) • SQLite • PostgreSQL  
 **Frontend:** JavaScript / TypeScript • TailwindCSS  
 **Infra & DevOps:** Docker • NGINX • GitHub Actions (CI/CD)  
 **Cloud:** Oracle Cloud • Azure • Linux (Ubuntu Server) • DNS • SSL/TLS • Deploys Automatizados  
@@ -42,7 +42,7 @@ Atuo em todas as etapas do ciclo de vida da aplicação — **do código à prod
 ---
 
 ##  [Portfólio Técnico Completo](https://samirricardo.github.io/samirricardoportfolio2025)
-> Estudos de caso em **React, FastAPI e Flask**, com seções de **desafios reais de produção e troubleshooting DevOps**, incluindo:
+> Estudos de caso em **React, FastAPI **, com seções de **desafios reais de produção e troubleshooting DevOps**, incluindo:
 - Permissões e acessos NGINX/Gunicorn em `/home/ubuntu`  
 - Erros 404 de estáticos e **Worker Timeout Gunicorn**  
 - Pipeline **CI/CD completo** com deploy automatizado no GitHub Pages  
