@@ -56,7 +56,7 @@ Atuo em todas as etapas do ciclo de vida da aplicação — **do código à prod
 Minha missão é unir **engenharia, automação e IA** para criar soluções SaaS **escaláveis, seguras e inteligentes**, com entregas contínuas e valor real para o negócio.  
 Sou movido por desafios que exigem **diagnóstico técnico, inovação e excelência operacional**.
 
->  *"Portfólio full-stack alinhado ao mercado: arquitetura, APIs, Next.js/React, Python, segurança (OWASP), CI/CD e cloud. Disponível para desafios sênior."*
+>  *"Desenvolvedor Full-Stack Sênior com visão de arquitetura e especialização em soluções modernas de alta performance. Proficiência em Next.js (React) no Frontend e Python (Flask/FastAPI) no Backend, garantindo escalabilidade e robustez. Experiência comprovada em DevOps, CI/CD, segurança (OWASP) e troubleshooting de ambientes complexos em Cloud (Oracle/Azure). Disponível para desafios que exijam excelência técnica e impacto no produto.."*
 
 ---
 
