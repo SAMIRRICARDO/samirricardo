@@ -56,7 +56,7 @@ Atuo em todas as etapas do ciclo de vida da aplicação — **do código à prod
 Minha missão é unir **engenharia, automação e IA** para criar soluções SaaS **escaláveis, seguras e inteligentes**, com entregas contínuas e valor real para o negócio.  
 Sou movido por desafios que exigem **diagnóstico técnico, inovação e excelência operacional**.
 
->  *"Código eficiente é aquele que roda, escala e entrega valor real."*
+>  *"Portfólio full-stack alinhado ao mercado: arquitetura, APIs, Next.js/React, Python, segurança (OWASP), CI/CD e cloud. Disponível para desafios sênior."*
 
 ---
 
