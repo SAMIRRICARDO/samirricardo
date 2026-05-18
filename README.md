@@ -1,65 +1,221 @@
-#  Samir Ricardo — Desenvolvedor de Software Full Stack | Cloud • DevOps • SaaS • IA
+# Samir Ricardo — AI Systems Engineer | Full Stack • Cloud • DevOps • Cognitive Architectures
 
-Sou um **Desenvolvedor Full-Stack** com foco em **arquitetura de sistemas, automação de processos e integração em nuvem**, aplicando **Inteligência Artificial** para acelerar o ciclo de desenvolvimento e entrega de produtos digitais.
+Atuo como desenvolvedor e arquiteto de sistemas focado em:
 
-Atuo em todas as etapas do ciclo de vida da aplicação — **do código à produção** — unindo **engenharia, experiência do usuário e cultura DevOps**.
+- AI-native applications
+- multi-agent systems
+- cloud infrastructure
+- cognitive runtimes
+- automação inteligente
+- semantic memory architectures
+- SaaS escalável
+- DevOps & observabilidade
 
----
+Minha especialidade é construir sistemas modernos orientados por IA, unindo:
 
-##  Stack Principal
-
-**Backend:** Python (FastAPI) • SQLite • PostgreSQL  
-**Frontend:** JavaScript / TypeScript • TailwindCSS  
-**Infra & DevOps:** Docker • NGINX • GitHub Actions (CI/CD)  
-**Cloud:** Oracle Cloud • Azure • Linux (Ubuntu Server) • DNS • SSL/TLS • Deploys Automatizados  
-**Boas Práticas:** SOLID • Clean Code • GitFlow • Testes Automatizados (Pytest / Jest)
-
----
-
-##  Projetos em Produção / Demos
-
-###  [Proposta Interativa HTML — VRASHOWS](https://vrashows.com.br/eventodemoda)
-> Converte propostas comerciais em PDF em **landing pages interativas** com vídeo, CTA WhatsApp e layout responsivo.  
-> Geradas automaticamente com **apoio de IA** e publicadas via **GitHub Actions (CI/CD)**.  
-> **Stack:** Python • TailwindCSS • GitHub Pages • OpenAI API  
-> **Resultado:** criação de um novo produto comercial da VRASHOWS, elevando apresentações de orçamento a um formato digital inteligente.
+- engenharia de software
+- orchestration
+- retrieval systems
+- infraestrutura cloud
+- automação operacional
+- arquitetura cognitiva
 
 ---
 
-###  [AgilizaVRA (SaaS)](https://www.vrashows.com.br/agilizadj)
-> Plataforma completa de **Agenda, CRM e Financeiro** para gestão de eventos.  
-> **Stack:** Flask • SQLite • Tailwind • Gunicorn • NGINX • Oracle Cloud  
-> **Login:** admin | **Senha:** 021150  
-> Projeto ativo em **produção** com pipeline **CI/CD** e infraestrutura de alta disponibilidade.
+# Core Expertise
+
+## AI Systems Engineering
+- Multi-agent architectures
+- RAG pipelines
+- Semantic retrieval
+- AI orchestration
+- Cognitive runtimes
+- Tool-first execution
+- Context engineering
+- AI memory systems
+
+## Backend & APIs
+- Python (FastAPI / Flask)
+- Node.js / TypeScript
+- PostgreSQL
+- Redis
+- SQLite
+- REST APIs
+
+## Frontend
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+
+## Cloud & DevOps
+- Docker
+- NGINX
+- GitHub Actions
+- CI/CD
+- Oracle Cloud
+- Azure
+- Linux (Ubuntu Server)
+
+## AI Stack
+- Claude API
+- OpenAI API
+- pgvector
+- LangGraph
+- Obsidian Knowledge Systems
+- Semantic Search
+- Embeddings Pipelines
 
 ---
 
-###  [VRASHOWS (E2E Cloud Site)](https://www.vrashows.com.br)
-> Infraestrutura **end-to-end** com domínio próprio, DNS, SSL/TLS, NGINX e hospedagem otimizada.  
-> Site institucional e **hub de serviços** da produtora VRASHOWS.  
-> Integração direta com aplicações internas e automação de deploys.
+# Featured Project — AI Cognitive Runtime
+
+## Multi-Agent Cognitive Infrastructure
+
+AI-native runtime architecture designed for:
+
+- semantic memory
+- orchestration
+- retrieval-augmented generation
+- multi-agent workflows
+- tool execution
+- persistent cognition
+- observability
+- cost-aware routing
+
+### Stack
+- Claude API
+- OpenAI Embeddings
+- PostgreSQL + pgvector
+- Redis
+- LangGraph
+- Docker Compose
+- Obsidian Vault
+
+### Features
+- Hybrid Retrieval
+- Semantic Memory
+- Model Routing
+- Cost Tracking
+- Multi-Agent Architecture
+- Planner / Orchestrator Patterns
+- Incremental Indexing
+- AI Workspace Governance
+
+### Repository
+https://github.com/SAMIRRICARDO/ai-cognitive-runtime
 
 ---
 
-##  [Portfólio Técnico Completo](https://samirricardo.github.io/samirricardoportfolio2025)
-> Estudos de caso em **React, FastAPI **, com seções de **desafios reais de produção e troubleshooting DevOps**, incluindo:
-- Permissões e acessos NGINX/Gunicorn em `/home/ubuntu`  
-- Erros 404 de estáticos e **Worker Timeout Gunicorn**  
-- Pipeline **CI/CD completo** com deploy automatizado no GitHub Pages  
-- Diagnóstico e otimização de instâncias **Oracle Cloud**  
-- Geração de propostas comerciais com **IA integrada ao pipeline DevOps**
+# Production Projects
+
+## VRASHOWS — Cloud Infrastructure & Automation
+https://www.vrashows.com.br
+
+Complete end-to-end infrastructure with:
+- cloud deployment
+- DNS
+- SSL/TLS
+- NGINX
+- CI/CD
+- application orchestration
 
 ---
 
-##  Missão Profissional
+## AgilizaVRA — SaaS Platform
+https://www.vrashows.com.br/agilizadj
 
-Minha missão é unir **engenharia, automação e IA** para criar soluções SaaS **escaláveis, seguras e inteligentes**, com entregas contínuas e valor real para o negócio.  
-Sou movido por desafios que exigem **diagnóstico técnico, inovação e excelência operacional**.
+Event management SaaS platform featuring:
+- CRM
+- scheduling
+- finance management
+- cloud deployment
+- production CI/CD
 
->  *"Desenvolvedor Full-Stack Sênior com visão de arquitetura e especialização em soluções modernas de alta performance. Proficiência em Next.js (React) no Frontend e Python (Flask/FastAPI) no Backend, garantindo escalabilidade e robustez. Experiência comprovada em DevOps, CI/CD, segurança (OWASP) e troubleshooting de ambientes complexos em Cloud (Oracle/Azure). Disponível para desafios que exijam excelência técnica e impacto no produto.."*
+### Stack
+- Flask
+- SQLite
+- Tailwind
+- Gunicorn
+- Oracle Cloud
 
 ---
 
-📍 São Paulo/SP  
-📧 [eliteasamir@gmail.com](mailto:eliteasamir@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/samirricardo) • [GitHub](https://github.com/SAMIRRICARDO)
+## Interactive Proposal Generator
+https://vrashows.com.br/eventodemoda
+
+AI-assisted commercial proposal system converting PDFs into:
+- interactive landing pages
+- WhatsApp CTAs
+- responsive commercial experiences
+
+### Stack
+- Python
+- TailwindCSS
+- GitHub Actions
+- OpenAI API
+
+---
+
+# Engineering Philosophy
+
+I believe modern software engineering is evolving into:
+
+- AI-native systems
+- cognitive infrastructure
+- orchestration platforms
+- memory-aware applications
+- autonomous workflows
+
+My focus is building scalable systems combining:
+
+- software engineering
+- AI orchestration
+- observability
+- semantic memory
+- automation
+- operational excellence
+
+---
+
+# Current Focus
+
+- AI Systems Engineering
+- Multi-Agent Systems
+- Cognitive Architectures
+- RAG Infrastructure
+- AI Runtime Platforms
+- Semantic Search
+- Autonomous Workflows
+- Context Engineering
+
+---
+
+# Technical Strengths
+
+- Architecture & troubleshooting
+- Cloud infrastructure
+- AI orchestration
+- Retrieval systems
+- DevOps automation
+- Production debugging
+- Observability
+- CI/CD pipelines
+- Performance optimization
+
+---
+
+# Links
+
+📍 São Paulo/SP
+
+📧 eliteasamir@gmail.com
+
+## LinkedIn
+https://www.linkedin.com/in/samirricardo
+
+## GitHub
+https://github.com/SAMIRRICARDO
+
+## Technical Portfolio
+https://samirricardo.github.io/samirricardoportfolio2025
