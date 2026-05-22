@@ -1,207 +1,264 @@
-# Samir Ricardo — AI Systems Engineer | Full Stack • Cloud • DevOps • Cognitive Architectures
+# Samir Ricardo — AI Systems Engineer | AI-Native Architect • Full Stack • Cloud • Multi-Agent Systems
 
-Atuo como desenvolvedor e arquiteto de sistemas focado em:
+Software Engineer focused on designing and building AI-native systems, cognitive runtimes and scalable automation platforms combining software engineering, cloud infrastructure and applied artificial intelligence.
 
-- AI-native applications
-- multi-agent systems
-- cloud infrastructure
-- cognitive runtimes
-- automação inteligente
-- semantic memory architectures
-- SaaS escalável
-- DevOps & observabilidade
+Specialized in:
 
-Minha especialidade é construir sistemas modernos orientados por IA, unindo:
+* multi-agent systems
+* AI orchestration
+* lightweight RAG architectures
+* semantic memory infrastructures
+* context engineering
+* autonomous workflows
+* intelligent outbound automation
+* SaaS-oriented runtime platforms
 
-- engenharia de software
-- orchestration
-- retrieval systems
-- infraestrutura cloud
-- automação operacional
-- arquitetura cognitiva
+Strong experience building production-ready systems using Python, TypeScript, React, cloud infrastructure and AI providers such as Claude and OpenAI.
+
+Currently focused on developing memory-aware architectures capable of combining:
+
+* orchestration
+* retrieval systems
+* observability
+* operational analytics
+* AI governance
+* cost-aware execution
+* runtime optimization
+* persistent contextual memory
 
 ---
 
 # Core Expertise
 
 ## AI Systems Engineering
-- Multi-agent architectures
-- RAG pipelines
-- Semantic retrieval
-- AI orchestration
-- Cognitive runtimes
-- Tool-first execution
-- Context engineering
-- AI memory systems
 
-## Backend & APIs
-- Python (FastAPI / Flask)
-- Node.js / TypeScript
-- PostgreSQL
-- Redis
-- SQLite
-- REST APIs
+* Multi-Agent Architectures
+* Lightweight RAG Pipelines
+* Semantic Retrieval
+* Context Engineering
+* AI Orchestration
+* Cognitive Runtimes
+* Memory-Aware Systems
+* Autonomous Workflows
+* Tool-First Execution
+* AI Runtime Governance
+* Cost-Aware AI Systems
+
+## Backend & Infrastructure
+
+* Python (FastAPI / Flask)
+* Node.js / TypeScript
+* REST APIs
+* SQLite
+* Redis
+* Runtime Caching
+* Async Processing
+* Production Debugging
 
 ## Frontend
-- React
-- Next.js
-- TypeScript
-- TailwindCSS
+
+* React
+* Next.js
+* TypeScript
+* TailwindCSS
+* Responsive UI Architecture
 
 ## Cloud & DevOps
-- Docker
-- NGINX
-- GitHub Actions
-- CI/CD
-- Oracle Cloud
-- Azure
-- Linux (Ubuntu Server)
+
+* Docker
+* NGINX
+* GitHub Actions
+* CI/CD
+* Oracle Cloud
+* Azure
+* Linux (Ubuntu Server)
+* Infrastructure Automation
+* Observability & Monitoring
 
 ## AI Stack
-- Claude API
-- OpenAI API
-- pgvector
-- LangGraph
-- Obsidian Knowledge Systems
-- Semantic Search
-- Embeddings Pipelines
+
+* Claude API
+* OpenAI API
+* LangGraph
+* Semantic Search
+* Embeddings Pipelines
+* Obsidian Knowledge Systems
+* AI Analytics
+* Runtime Cost Governance
 
 ---
 
-# Featured Project — AI Cognitive Runtime
+# Featured Project — AI Cognitive Runtime / IALEADS
 
-## Multi-Agent Cognitive Infrastructure
+## AI-Native Multi-Agent Runtime Platform
 
-AI-native runtime architecture designed for:
+Advanced local-first AI runtime architecture designed for:
 
-- semantic memory
-- orchestration
-- retrieval-augmented generation
-- multi-agent workflows
-- tool execution
-- persistent cognition
-- observability
-- cost-aware routing
+* multi-agent orchestration
+* lightweight RAG
+* semantic memory
+* outbound automation
+* persistent operational memory
+* AI analytics
+* cost governance
+* observability
+* runtime optimization
+
+### Architecture Highlights
+
+* SQLite Operational Memory
+* Lightweight Local-First RAG
+* AI Analytics Layer
+* Runtime Cache Layer
+* Cost-Aware AI Routing
+* Outbound Governance
+* Contextual Memory Injection
+* Scheduler & Automation Runtime
 
 ### Stack
-- Claude API
-- OpenAI Embeddings
-- PostgreSQL + pgvector
-- Redis
-- LangGraph
-- Docker Compose
-- Obsidian Vault
+
+* Claude API
+* OpenAI API
+* LangGraph
+* SQLite
+* Redis
+* Docker
+* TypeScript
+* Python
+* JSONL Runtime Memory
 
 ### Features
-- Hybrid Retrieval
-- Semantic Memory
-- Model Routing
-- Cost Tracking
-- Multi-Agent Architecture
-- Planner / Orchestrator Patterns
-- Incremental Indexing
-- AI Workspace Governance
+
+* Multi-Agent Runtime
+* Semantic Memory
+* Hybrid Retrieval
+* Context Reuse
+* AI Cost Tracking
+* Cache-Aware Execution
+* Runtime Observability
+* Memory-Aware Workflows
+* Lead Intelligence Automation
+* AI Operational Governance
 
 ### Repository
+
 https://github.com/SAMIRRICARDO/ai-cognitive-runtime
 
 ---
 
 # Production Projects
 
-## VRASHOWS — Cloud Infrastructure & Automation
+## VRASHOWS — Cloud Infrastructure & Event Operations
+
 https://www.vrashows.com.br
 
-Complete end-to-end infrastructure with:
-- cloud deployment
-- DNS
-- SSL/TLS
-- NGINX
-- CI/CD
-- application orchestration
+Enterprise event operations and infrastructure ecosystem including:
+
+* cloud deployment
+* DNS & SSL/TLS
+* operational automation
+* CI/CD
+* infrastructure orchestration
+* operational support systems
 
 ---
 
-## AgilizaVRA — SaaS Platform
+## AgilizaVRA — Event Management SaaS
+
 https://www.vrashows.com.br/agilizadj
 
-Event management SaaS platform featuring:
-- CRM
-- scheduling
-- finance management
-- cloud deployment
-- production CI/CD
+Operational SaaS platform for event management featuring:
+
+* CRM
+* scheduling
+* finance workflows
+* operational automation
+* cloud deployment
+* CI/CD pipelines
 
 ### Stack
-- Flask
-- SQLite
-- Tailwind
-- Gunicorn
-- Oracle Cloud
+
+* Flask
+* SQLite
+* TailwindCSS
+* Gunicorn
+* Oracle Cloud
 
 ---
 
 ## Interactive Proposal Generator
+
 https://vrashows.com.br/eventodemoda
 
-AI-assisted commercial proposal system converting PDFs into:
-- interactive landing pages
-- WhatsApp CTAs
-- responsive commercial experiences
+AI-assisted proposal generation system transforming PDFs into:
+
+* interactive commercial pages
+* responsive proposal experiences
+* WhatsApp conversion funnels
+* AI-assisted commercial workflows
 
 ### Stack
-- Python
-- TailwindCSS
-- GitHub Actions
-- OpenAI API
+
+* Python
+* OpenAI API
+* TailwindCSS
+* GitHub Actions
 
 ---
 
 # Engineering Philosophy
 
-I believe modern software engineering is evolving into:
+I believe modern software engineering is rapidly evolving toward:
 
-- AI-native systems
-- cognitive infrastructure
-- orchestration platforms
-- memory-aware applications
-- autonomous workflows
+* AI-native applications
+* memory-aware systems
+* orchestration platforms
+* semantic infrastructures
+* autonomous operational workflows
+* cognitive runtime architectures
 
-My focus is building scalable systems combining:
+My focus is building scalable and efficient systems capable of combining:
 
-- software engineering
-- AI orchestration
-- observability
-- semantic memory
-- automation
-- operational excellence
+* software engineering
+* AI orchestration
+* automation
+* observability
+* semantic retrieval
+* operational intelligence
+* cost governance
+* production reliability
 
 ---
 
 # Current Focus
 
-- AI Systems Engineering
-- Multi-Agent Systems
-- Cognitive Architectures
-- RAG Infrastructure
-- AI Runtime Platforms
-- Semantic Search
-- Autonomous Workflows
-- Context Engineering
+* AI Systems Engineering
+* Multi-Agent Systems
+* Lightweight RAG
+* Context Engineering
+* Cognitive Architectures
+* AI Runtime Platforms
+* Semantic Search
+* AI Automation
+* Memory-Aware Applications
+* Cost-Optimized AI Systems
 
 ---
 
 # Technical Strengths
 
-- Architecture & troubleshooting
-- Cloud infrastructure
-- AI orchestration
-- Retrieval systems
-- DevOps automation
-- Production debugging
-- Observability
-- CI/CD pipelines
-- Performance optimization
+* Systems Architecture
+* Production Troubleshooting
+* AI Runtime Engineering
+* Cloud Infrastructure
+* Retrieval Systems
+* AI Orchestration
+* DevOps Automation
+* CI/CD Pipelines
+* Runtime Observability
+* Performance Optimization
+* Operational Analytics
+* Cost Governance
 
 ---
 
@@ -209,13 +266,16 @@ My focus is building scalable systems combining:
 
 📍 São Paulo/SP
 
-📧 eliteasamir@gmail.com
+📧 [eliteasamir@gmail.com](mailto:eliteasamir@gmail.com)
 
 ## LinkedIn
+
 https://www.linkedin.com/in/samirricardo
 
 ## GitHub
+
 https://github.com/SAMIRRICARDO
 
 ## Technical Portfolio
+
 https://samirricardo.github.io/samirricardoportfolio2025
