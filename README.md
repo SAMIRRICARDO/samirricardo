@@ -1,52 +1,93 @@
-# Samir Ricardo
+# Samir Ricardo Almeida
 
-## AI Systems Engineer | AI Architect | Creator of VRAXIA & Human RAG
+## AI Solutions Architect | Enterprise AI | Multi-Agent Systems | Human RAG Creator
 
-AI Systems Engineer focused on designing and building AI-native platforms, multi-agent systems and knowledge-preservation architectures that combine software engineering, artificial intelligence and enterprise operations.
+AI Solutions Architect with 15+ years of experience across enterprise infrastructure, cloud computing, software engineering, solution architecture and applied artificial intelligence.
 
-Creator of VRAXIA, an Enterprise AI Operating System designed to orchestrate specialized AI agents across business functions while enabling organizations to preserve, scale and operationalize critical knowledge through Human RAG.
+Specialized in designing AI-native platforms that connect business operations, organizational knowledge and intelligent automation into scalable enterprise systems.
 
-My work focuses on transforming artificial intelligence from isolated tools into operational platforms capable of supporting commercial, financial, operational and strategic workflows.
+Creator of **VRAXIA**, an Enterprise AI Operating System designed to orchestrate specialized AI agents, automate business workflows and transform organizational knowledge into operational intelligence.
 
-### Areas of Specialization
+Creator of **Human RAG (Human Retrieval-Augmented Generation)**, a framework focused on preserving organizational intelligence by capturing, structuring and operationalizing tacit knowledge before it is lost through employee turnover, retirement or organizational change.
 
-* AI Systems Engineering
-* Multi-Agent Architectures
+My work sits at the intersection of:
+
+* Enterprise Architecture
+* Artificial Intelligence
+* Multi-Agent Systems
+* Knowledge Systems
+* Business Automation
+* Software Engineering
+
+I focus on transforming AI from isolated tools into resilient, observable and cost-efficient enterprise platforms capable of generating measurable business value.
+
+---
+
+## Areas of Expertise
+
+* AI Solutions Architecture
+* Enterprise AI
+* Generative AI
+* Multi-Agent Systems
+* Retrieval-Augmented Generation (RAG)
 * Human RAG & Knowledge Preservation
-* Context Engineering
-* Cognitive Runtime Platforms
+* LLM Orchestration
+* AI Automation
 * Semantic Memory Systems
-* AI Orchestration
-* Enterprise Automation
-* AI Observability & Governance
-* SaaS Platform Architecture
+* Knowledge Management Platforms
+* Enterprise Integration
+* Solution Architecture
+* Software Architecture
+* Cloud Computing
+* AI Governance & Observability
 
-### Current Focus
+---
 
-Building the next generation of AI-native enterprise systems capable of combining:
+## Featured Projects
 
-* Human expertise preservation
-* Multi-agent orchestration
-* Operational intelligence
-* Semantic memory
-* Autonomous workflows
-* Cost-aware AI execution
-* Enterprise-scale governance
+### VRAXIA — Enterprise AI Operating System
 
-### Featured Projects
+Enterprise AI platform designed to orchestrate intelligent agents across business domains such as Commercial, HR, Finance, Marketing, Legal and Operations.
 
-#### VRAXIA — Enterprise AI Operating System
+Core capabilities:
 
-An AI-native operating system designed to centralize intelligent agents, operational workflows and organizational knowledge into a unified enterprise platform.
+* Multi-Agent Orchestration
+* Enterprise Knowledge Management
+* Semantic Memory
+* AI Automation
+* Intelligent Workflows
+* Cost Governance
+* Operational Intelligence
 
-#### Human RAG
+---
 
-A cognitive knowledge platform focused on preserving organizational expertise by transforming human decision patterns, operational experience and professional knowledge into reusable digital assets.
+### Human RAG
 
-#### AI Cognitive Runtime
+Framework for Organizational Intelligence Preservation.
 
-Multi-agent runtime platform focused on orchestration, semantic memory, outbound automation and operational intelligence.
+Human RAG applies Retrieval-Augmented Generation concepts to human expertise, enabling organizations to capture, preserve and recover critical decision-making knowledge.
 
-### Mission
+Core concepts:
 
-To build AI systems that do more than automate tasks — systems capable of preserving, amplifying and operationalizing human intelligence at organizational scale.
+* Decision Capital
+* Human RAG
+* Cognitive Legacy
+* Cognitive Leakage
+* Organizational Intelligence Preservation (OIP)
+* Intelligence Preservation Index (IPI)
+
+---
+
+### AI Cognitive Runtime
+
+Multi-agent runtime platform focused on semantic memory, orchestration, enterprise automation and operational intelligence.
+
+Built to support scalable AI-native applications with governance, observability and cost-efficient execution.
+
+---
+
+## Mission
+
+To help organizations preserve knowledge, automate operations and scale decision-making through intelligent systems that combine human expertise, artificial intelligence and enterprise architecture.
+
+Building the future where AI does not replace organizational intelligence — it preserves, amplifies and operationalizes it.
