@@ -10,6 +10,9 @@
 
 </div>
 
+- Description: Enterprise AI OS — Human RAG framework for organizational knowledge preservation
+- Topics: ai-agents human-rag typescript anthropic llm enterprise-ai multi-agent knowledge-management
+- Website: https://a.co/d/0dTw8I9Y
 ---
 
 ## O que construo
