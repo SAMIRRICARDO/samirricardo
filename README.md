@@ -1,93 +1,81 @@
+<div align="center">
+
 # Samir Ricardo Almeida
 
-## AI Solutions Architect | Enterprise AI | Multi-Agent Systems | Human RAG Creator
+**AI Solutions Architect · Fundador VRASHOWS · Criador do Human RAG**
 
-AI Solutions Architect with 15+ years of experience across enterprise infrastructure, cloud computing, software engineering, solution architecture and applied artificial intelligence.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samirricardo-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/samirricardo)
+[![Email](https://img.shields.io/badge/Email-contato@vrashows.com.br-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:contato@vrashows.com.br)
+[![Livro](https://img.shields.io/badge/Amazon-O%20Maior%20Ativo-FF9900?logo=amazon&logoColor=white&style=flat-square)](https://a.co/d/0dTw8I9Y)
 
-Specialized in designing AI-native platforms that connect business operations, organizational knowledge and intelligent automation into scalable enterprise systems.
-
-Creator of **VRAXIA**, an Enterprise AI Operating System designed to orchestrate specialized AI agents, automate business workflows and transform organizational knowledge into operational intelligence.
-
-Creator of **Human RAG (Human Retrieval-Augmented Generation)**, a framework focused on preserving organizational intelligence by capturing, structuring and operationalizing tacit knowledge before it is lost through employee turnover, retirement or organizational change.
-
-My work sits at the intersection of:
-
-* Enterprise Architecture
-* Artificial Intelligence
-* Multi-Agent Systems
-* Knowledge Systems
-* Business Automation
-* Software Engineering
-
-I focus on transforming AI from isolated tools into resilient, observable and cost-efficient enterprise platforms capable of generating measurable business value.
+</div>
 
 ---
 
-## Areas of Expertise
+## O que construo
 
-* AI Solutions Architecture
-* Enterprise AI
-* Generative AI
-* Multi-Agent Systems
-* Retrieval-Augmented Generation (RAG)
-* Human RAG & Knowledge Preservation
-* LLM Orchestration
-* AI Automation
-* Semantic Memory Systems
-* Knowledge Management Platforms
-* Enterprise Integration
-* Solution Architecture
-* Software Architecture
-* Cloud Computing
-* AI Governance & Observability
+Sistemas de IA que preservam o que as empresas perdem quando pessoas saem.
+
+**75% das empresas familiares brasileiras fecham após a saída do fundador** — não por falta de capital, mas por perda de conhecimento estratégico (PwC).
+
+Resolvi esse problema criando o **Human RAG**.
 
 ---
 
-## Featured Projects
+## Human RAG
 
-### VRAXIA — Enterprise AI Operating System
+```
+RAG tradicional  →  indexa documentos  →  recupera texto
+Human RAG        →  indexa raciocínio  →  reconstrói decisões
+```
 
-Enterprise AI platform designed to orchestrate intelligent agents across business domains such as Commercial, HR, Finance, Marketing, Legal and Operations.
+RAG tradicional indexa **o que foi escrito**.
+Human RAG indexa **como a pessoa pensa e decide**.
 
-Core capabilities:
+Implementado no **VRAXIA** — Enterprise AI OS em produção com 8 agentes especializados operando 7 departamentos corporativos simultaneamente.
 
-* Multi-Agent Orchestration
-* Enterprise Knowledge Management
-* Semantic Memory
-* AI Automation
-* Intelligent Workflows
-* Cost Governance
-* Operational Intelligence
-
----
-
-### Human RAG
-
-Framework for Organizational Intelligence Preservation.
-
-Human RAG applies Retrieval-Augmented Generation concepts to human expertise, enabling organizations to capture, preserve and recover critical decision-making knowledge.
-
-Core concepts:
-
-* Decision Capital
-* Human RAG
-* Cognitive Legacy
-* Cognitive Leakage
-* Organizational Intelligence Preservation (OIP)
-* Intelligence Preservation Index (IPI)
+| Métrica | Resultado em produção |
+|---|---|
+| ↓ Custo de inferência IA | **80%** |
+| ↑ Eficiência operacional | **40%** |
+| ↓ Falhas por contexto perdido | **30%** |
 
 ---
 
-### AI Cognitive Runtime
+## Projeto principal
 
-Multi-agent runtime platform focused on semantic memory, orchestration, enterprise automation and operational intelligence.
+### 🧠 [ai-cognitive-runtime](https://github.com/SAMIRRICARDO/ai-cognitive-runtime) — VRAXIA Enterprise AI OS
 
-Built to support scalable AI-native applications with governance, observability and cost-efficient execution.
+```bash
+# Demo em 2 minutos — veja Human RAG ao vivo
+git clone https://github.com/SAMIRRICARDO/ai-cognitive-runtime
+cd ai-cognitive-runtime && npm install
+npx tsx demo/human-rag-demo.ts
+```
 
 ---
 
-## Mission
+## Publicação
 
-To help organizations preserve knowledge, automate operations and scale decision-making through intelligent systems that combine human expertise, artificial intelligence and enterprise architecture.
+📖 **[O Maior Ativo da Sua Empresa — E por que ele está indo embora?](https://a.co/d/0dTw8I9Y)**
+Amazon KDP · Junho 2026 · R$ 24,99 Kindle
 
-Building the future where AI does not replace organizational intelligence — it preserves, amplifies and operationalizes it.
+O primeiro livro brasileiro sobre Human RAG aplicado à preservação de conhecimento organizacional.
+
+---
+
+## Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Claude](https://img.shields.io/badge/Claude%204-D4A017?logo=anthropic&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-F5A800?logo=opentelemetry&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+
+---
+
+<div align="center">
+<sub>VRASHOWS · contato@vrashows.com.br · (11) 95357-7804</sub>
+</div>
