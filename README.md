@@ -2,7 +2,7 @@
 
 # Samir Ricardo Almeida
 
-**AI Solutions Architect · Fundador VRASHOWS · Criador do Human RAG**
+**Engenheiro de Automação e IA com experiência em desenvolvimento de soluções corporativas utilizando Python, IA Generativa, Automação de Processos, Integração de Sistemas e Arquitetura de Software. · Fundador VRASHOWS · Criador do Human RAG**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samirricardo-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/samirricardo)
 [![Email](https://img.shields.io/badge/Email-contato@vrashows.com.br-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:contato@vrashows.com.br)
@@ -13,6 +13,16 @@
 ---
 
 ## O que construo
+
+Engenheiro de Automação e IA com experiência em desenvolvimento de soluções corporativas utilizando Python, IA Generativa, Automação de Processos, Integração de Sistemas e Arquitetura de Software.
+
+Atuação na concepção do VRAXIA, plataforma de IA baseada em agentes especializados, RAG (Retrieval-Augmented Generation), LLMs e automação de fluxos para áreas como Comercial, RH, Marketing, Financeiro, Jurídico e Operações.
+
+Experiência em APIs REST, OAuth2, JWT, Webhooks, PostgreSQL, pgvector, Docker, Redis, Azure e CI/CD. Desenvolvimento de aplicações com OpenAI, Anthropic, RAG, Engenharia de Prompts, Orquestração de Agentes, Observabilidade e Modernização de Sistemas.
+
+Conhecimentos em Clean Architecture, SOLID, DDD, Event-Driven Architecture, CQRS e Integração entre Plataformas.
+
+Foco em transformação digital, automação corporativa, redução de tarefas manuais, eficiência operacional, inteligência organizacional e aplicação prática de IA em ambientes empresariais.
 
 Sistemas de IA que preservam o que as empresas perdem quando pessoas saem.
 
