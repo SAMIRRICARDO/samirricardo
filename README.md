@@ -10,9 +10,6 @@
 
 </div>
 
-- Description: Enterprise AI OS — Human RAG framework for organizational knowledge preservation
-- Topics: ai-agents human-rag typescript anthropic llm enterprise-ai multi-agent knowledge-management
-- Website: https://a.co/d/0dTw8I9Y
 ---
 
 ## O que construo
@@ -32,10 +29,10 @@ RAG tradicional  →  indexa documentos  →  recupera texto
 Human RAG        →  indexa raciocínio  →  reconstrói decisões
 ```
 
-RAG tradicional indexa **o que foi escrito**.
+RAG tradicional indexa **o que foi escrito**.  
 Human RAG indexa **como a pessoa pensa e decide**.
 
-Implementado no **VRAXIA** — Enterprise AI OS em produção com 8 agentes especializados operando 7 departamentos corporativos simultaneamente.
+Implementado no **VRAXIA** — Enterprise AI OS em produção com 11 agentes especializados operando inteligência comercial e operações empresariais simultâneas.
 
 | Métrica | Resultado em produção |
 |---|---|
@@ -47,7 +44,7 @@ Implementado no **VRAXIA** — Enterprise AI OS em produção com 8 agentes espe
 
 ## Projeto principal
 
-### 🧠 [ai-cognitive-runtime](https://github.com/SAMIRRICARDO/ai-cognitive-runtime) — VRAXIA Enterprise AI OS
+### [ai-cognitive-runtime](https://github.com/SAMIRRICARDO/ai-cognitive-runtime) — VRAXIA Enterprise AI OS
 
 ```bash
 # Demo em 2 minutos — veja Human RAG ao vivo
@@ -58,24 +55,84 @@ npx tsx demo/human-rag-demo.ts
 
 ---
 
-## Publicação
+## Arquitetura de Agentes
 
-📖 **[O Maior Ativo da Sua Empresa — E por que ele está indo embora?](https://a.co/d/0dTw8I9Y)**
-Amazon KDP · Junho 2026 · R$ 24,99 Kindle
+### Núcleo Cognitivo
 
-O primeiro livro brasileiro sobre Human RAG aplicado à preservação de conhecimento organizacional.
+| Agente | Responsabilidade |
+|---|---|
+| `coordinator` | Decomposição de tarefas em DAGs, orquestração multi-agente |
+| `researcher` | Pesquisa web, fact-finding, inteligência de mercado |
+| `coder` | Geração de código, debugging, refatoração, testes |
+| `evaluator` | Avaliação de qualidade, loops de reflexão e critique |
+| `vault` | Busca semântica e keyword na base Obsidian |
+| `memory-manager` | Gestão e consulta de memória episódica/semântica |
+
+### Inteligência Comercial (VRASHOWS)
+
+| Agente | Responsabilidade |
+|---|---|
+| `futurecom-researcher` | Identifica expositores Futurecom com potencial 360° via web intelligence |
+| `lead-enrichment-agent` | Enriquece leads com decisores, contatos e inteligência estratégica |
+| `outreach-agent` | Gera pacotes de outreach consultivo enterprise (email + LinkedIn) |
+| `lead-classifier` | Qualifica respostas de decisores (variantes A–E, intent, handoff) |
+| `email-sender-agent` | Dispara emails enterprise via Resend com dedup e rate limiting |
 
 ---
 
-## Stack
+## Pipeline de Inteligência Outbound
+
+```
+Pesquisa        →  futurecom-researcher  (Tavily web search + scoring)
+     ↓
+Enriquecimento  →  lead-enrichment-agent (decisores, emails, LinkedIn)
+     ↓
+Validação       →  email-quality + blocklist + pattern resolver (40+ empresas)
+     ↓
+Outreach        →  outreach-agent        (template personalizado por perfil)
+     ↓
+Disparo         →  email-sender-agent    (Resend API, batch controlado)
+     ↓
+Classificação   →  lead-classifier       (resposta → A/B/C/D/E → CRM)
+```
+
+---
+
+## Memória Multi-Camada
+
+```
+Redis          →  cache de curto prazo, dedup, acumulação de custo
+PostgreSQL     →  memória semântica de longo prazo (pgvector)
+SQLite         →  cache local offline
+Obsidian Vault →  memória arquitetural e decisional (Human RAG)
+```
+
+---
+
+## Ferramentas e Integrações
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 ![Claude](https://img.shields.io/badge/Claude%204-D4A017?logo=anthropic&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-F5A800?logo=opentelemetry&logoColor=white&style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+![Resend](https://img.shields.io/badge/Resend-000000?logo=mail&logoColor=white&style=flat-square)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white&style=flat-square)
+
+**Canais de entrega:** Email (Resend) · LinkedIn · Telegram · WhatsApp  
+**Observabilidade:** token usage · latência · custo por agente · workflow tracing  
+**Governança de custo:** cheap mode · seleção dinâmica de modelo · caps de batch
+
+---
+
+## Publicação
+
+**[O Maior Ativo da Sua Empresa — E por que ele está indo embora?](https://a.co/d/0dTw8I9Y)**  
+Amazon KDP · Junho 2026 · R$ 24,99 Kindle
+
+O primeiro livro brasileiro sobre Human RAG aplicado à preservação de conhecimento organizacional.
 
 ---
 
