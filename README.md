@@ -1,10 +1,10 @@
 <div align="center">
 
-# Samir Ricardo Almeida
+# Samir Ricardo
 
-**Engenheiro de Automação e IA com experiência em desenvolvimento de soluções corporativas utilizando Python, IA Generativa, Automação de Processos, Integração de Sistemas e Arquitetura de Software. · Fundador VRASHOWS · Criador do Human RAG**
+**AI Systems Architect · Fundador VRASHOWS · Criador do Human RAG**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samirricardo-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/samirricardo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samir--ricardo-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/samir-ricardo-almeida-b23b3825b)
 [![Email](https://img.shields.io/badge/Email-contato@vrashows.com.br-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:contato@vrashows.com.br)
 [![Livro](https://img.shields.io/badge/Amazon-O%20Maior%20Ativo-FF9900?logo=amazon&logoColor=white&style=flat-square)](https://a.co/d/0dTw8I9Y)
 
@@ -12,23 +12,44 @@
 
 ---
 
-## O que construo
+## VRAXIA Sense — IA Perceptiva
 
-Engenheiro de Automação e IA com experiência em desenvolvimento de soluções corporativas utilizando Python, IA Generativa, Automação de Processos, Integração de Sistemas e Arquitetura de Software.
+> *"IA tradicional responde quando você pergunta. VRAXIA Sense percebe antes de você notar."*
 
-Atuação na concepção do VRAXIA, plataforma de IA baseada em agentes especializados, RAG (Retrieval-Augmented Generation), LLMs e automação de fluxos para áreas como Comercial, RH, Marketing, Financeiro, Jurídico e Operações.
+```
+IA tradicional:   você pergunta  →  ela responde
+VRAXIA Sense:     evento acontece  →  ela percebe  →  ela age
+```
 
-Experiência em APIs REST, OAuth2, JWT, Webhooks, PostgreSQL, pgvector, Docker, Redis, Azure e CI/CD. Desenvolvimento de aplicações com OpenAI, Anthropic, RAG, Engenharia de Prompts, Orquestração de Agentes, Observabilidade e Modernização de Sistemas.
+**VRAXIA Sense** é uma camada de percepção proativa — middleware de inteligência que monitora sinais do mundo externo (eventos, mensagens, métricas, prazos) e age de forma autônoma, **antes que um humano precise notar**.
 
-Conhecimentos em Clean Architecture, SOLID, DDD, Event-Driven Architecture, CQRS e Integração entre Plataformas.
+Dois modelos mentais que inspiram o design:
 
-Foco em transformação digital, automação corporativa, redução de tarefas manuais, eficiência operacional, inteligência organizacional e aplicação prática de IA em ambientes empresariais.
+- **Óculos de IA proativa** — aponte para algo e a informação aparece antes de você perguntar
+- **Garçom de rodízio** — nunca deixa o prato vazio, não pergunta a cada 2 minutos, **observa e age no momento certo**
 
-Sistemas de IA que preservam o que as empresas perdem quando pessoas saem.
+### O Pipeline de 3 Níveis
 
-**75% das empresas familiares brasileiras fecham após a saída do fundador** — não por falta de capital, mas por perda de conhecimento estratégico (PwC).
+```
+ EVENTO  →  NÍVEL 0  →  NÍVEL 1  →  NÍVEL 2  →  NOTIFICAÇÃO
+           Filtro        Triagem    Classificação   Telegram
+           $0,0000       ~$0,0001    ~$0,0003       (handoff)
+           CPU puro      Haiku       Haiku
+           70-80%        filtra      filtra
+           eliminados    ~60%        ~80%
+```
 
-Resolvi esse problema criando o **Human RAG**.
+| Métrica | Meta | Produção |
+|---|---|---|
+| Eventos eliminados no Nível 0 | >70% | **76%** |
+| Custo médio por evento bruto | <$0,001 | **$0,000034** |
+| Latência evento → notificação | <2 min | **~8 segundos** |
+| Taxa de falsos positivos | <10% | **~6%** |
+| Custo a 1.000 eventos/dia | — | **~$1,02/mês** |
+
+**Piloto comercial em produção:** Monitora replies de LinkedIn (Waalaxy) e classifica leads B2B automaticamente antes de qualquer humano abrir a caixa de entrada.
+
+**→ [github.com/SAMIRRICARDO/vraxia-sense](https://github.com/SAMIRRICARDO/vraxia-sense)**
 
 ---
 
@@ -39,71 +60,53 @@ RAG tradicional  →  indexa documentos  →  recupera texto
 Human RAG        →  indexa raciocínio  →  reconstrói decisões
 ```
 
+**75% das empresas familiares brasileiras fecham após a saída do fundador** — não por falta de capital, mas por perda de conhecimento estratégico (PwC).
+
 RAG tradicional indexa **o que foi escrito**.  
 Human RAG indexa **como a pessoa pensa e decide**.
 
-Implementado no **VRAXIA** — Enterprise AI OS em produção com 11 agentes especializados operando inteligência comercial e operações empresariais simultâneas.
+Implementado no **VRAXIA OS** — plataforma enterprise com 8 agentes departamentais em produção.
 
-| Métrica | Resultado em produção |
+| Métrica | Resultado |
 |---|---|
-| ↓ Custo de inferência IA | **80%** |
+| ↓ Custo de inferência | **80%** |
 | ↑ Eficiência operacional | **40%** |
 | ↓ Falhas por contexto perdido | **30%** |
 
 ---
 
-## Projeto principal
-
-### [ai-cognitive-runtime](https://github.com/SAMIRRICARDO/ai-cognitive-runtime) — VRAXIA Enterprise AI OS
-
-```bash
-# Demo em 2 minutos — veja Human RAG ao vivo
-git clone https://github.com/SAMIRRICARDO/ai-cognitive-runtime
-cd ai-cognitive-runtime && npm install
-npx tsx demo/human-rag-demo.ts
-```
-
----
-
-## Arquitetura de Agentes
-
-### Núcleo Cognitivo
-
-| Agente | Responsabilidade |
-|---|---|
-| `coordinator` | Decomposição de tarefas em DAGs, orquestração multi-agente |
-| `researcher` | Pesquisa web, fact-finding, inteligência de mercado |
-| `coder` | Geração de código, debugging, refatoração, testes |
-| `evaluator` | Avaliação de qualidade, loops de reflexão e critique |
-| `vault` | Busca semântica e keyword na base Obsidian |
-| `memory-manager` | Gestão e consulta de memória episódica/semântica |
-
-### Inteligência Comercial (VRASHOWS)
-
-| Agente | Responsabilidade |
-|---|---|
-| `futurecom-researcher` | Identifica expositores Futurecom com potencial 360° via web intelligence |
-| `lead-enrichment-agent` | Enriquece leads com decisores, contatos e inteligência estratégica |
-| `outreach-agent` | Gera pacotes de outreach consultivo enterprise (email + LinkedIn) |
-| `lead-classifier` | Qualifica respostas de decisores (variantes A–E, intent, handoff) |
-| `email-sender-agent` | Dispara emails enterprise via Resend com dedup e rate limiting |
-
----
-
-## Pipeline de Inteligência Outbound
+## VRAXIA OS — Enterprise AI Platform
 
 ```
-Pesquisa        →  futurecom-researcher  (Tavily web search + scoring)
-     ↓
-Enriquecimento  →  lead-enrichment-agent (decisores, emails, LinkedIn)
-     ↓
-Validação       →  email-quality + blocklist + pattern resolver (40+ empresas)
-     ↓
-Outreach        →  outreach-agent        (template personalizado por perfil)
-     ↓
-Disparo         →  email-sender-agent    (Resend API, batch controlado)
-     ↓
-Classificação   →  lead-classifier       (resposta → A/B/C/D/E → CRM)
+VRAXIA OS
+├── Module Agents       — 8 agentes departamentais (Comercial, Financeiro, Jurídico...)
+├── Skill Registry      — 1.161+ skills indexadas
+├── Codex Lead Engine   — find_new_leads · enrich_company · validate_leads
+├── VRAXIA Sense    ←   — camada de percepção proativa
+└── Multi-Tenant BYOK   — cada cliente usa suas próprias API keys
+```
+
+**→ [github.com/SAMIRRICARDO/ai-cognitive-runtime](https://github.com/SAMIRRICARDO/ai-cognitive-runtime)**
+
+### Agentes em Produção
+
+| Camada | Agente | Função |
+|---|---|---|
+| **Percepção** | `sense` | Monitora eventos, filtra ruído, notifica handoffs |
+| **Comercial** | `lead-enrichment` | Enriquece leads com decisores e contatos |
+| **Comercial** | `outreach` | Gera outreach personalizado por perfil |
+| **Comercial** | `lead-classifier` | Qualifica respostas (variantes A–E, intent, score) |
+| **Comercial** | `codex` | Busca, enriquece e valida leads via Tavily + LLM |
+| **Orquestração** | `coordinator` | Decompõe tarefas em DAGs, gerencia execução |
+| **Pesquisa** | `researcher` | Web intelligence, fact-finding, mercado |
+| **Memória** | `vault` | Busca semântica no Human RAG (Obsidian) |
+
+### Pipeline Outbound
+
+```
+Pesquisa (Tavily)  →  Enriquecimento (decisores/emails)  →  Validação (40+ empresas)
+       ↓
+Outreach (template por perfil)  →  Disparo (Resend)  →  Classificação (reply → CRM)
 ```
 
 ---
@@ -111,38 +114,35 @@ Classificação   →  lead-classifier       (resposta → A/B/C/D/E → CRM)
 ## Memória Multi-Camada
 
 ```
-Redis          →  cache de curto prazo, dedup, acumulação de custo
-PostgreSQL     →  memória semântica de longo prazo (pgvector)
+Redis          →  cache curto prazo, dedup, custo acumulado
+PostgreSQL     →  memória semântica longo prazo (pgvector)
 SQLite         →  cache local offline
-Obsidian Vault →  memória arquitetural e decisional (Human RAG)
+Obsidian Vault →  Human RAG — memória arquitetural e decisional
 ```
 
 ---
 
-## Ferramentas e Integrações
+## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![Claude](https://img.shields.io/badge/Claude%204-D4A017?logo=anthropic&logoColor=white&style=flat-square)
+![Claude](https://img.shields.io/badge/Claude%20Haiku%2FSonnet-D4A017?logo=anthropic&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
-![Resend](https://img.shields.io/badge/Resend-000000?logo=mail&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white&style=flat-square)
 
-**Canais de entrega:** Email (Resend) · LinkedIn · Telegram · WhatsApp  
+**Arquitetura:** ESM · Express + SSE · RAG local (JSONL) · BYOK multi-tenant  
 **Observabilidade:** token usage · latência · custo por agente · workflow tracing  
-**Governança de custo:** cheap mode · seleção dinâmica de modelo · caps de batch
+**Governança:** cheap mode · seleção dinâmica de modelo · caps de batch por domínio
 
 ---
 
 ## Publicação
 
 **[O Maior Ativo da Sua Empresa — E por que ele está indo embora?](https://a.co/d/0dTw8I9Y)**  
-Amazon KDP · Junho 2026 · R$ 24,99 Kindle
-
-O primeiro livro brasileiro sobre Human RAG aplicado à preservação de conhecimento organizacional.
+Amazon KDP · Junho 2026 · O primeiro livro brasileiro sobre Human RAG aplicado à preservação de conhecimento organizacional.
 
 ---
 
