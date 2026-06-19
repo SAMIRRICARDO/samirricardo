@@ -23,11 +23,6 @@ VRAXIA Sense:     evento acontece  →  ela percebe  →  ela age
 
 **VRAXIA Sense** é uma camada de percepção proativa — middleware de inteligência que monitora sinais do mundo externo (eventos, mensagens, métricas, prazos) e age de forma autônoma, **antes que um humano precise notar**.
 
-Dois modelos mentais que inspiram o design:
-
-- **Óculos de IA proativa** — aponte para algo e a informação aparece antes de você perguntar
-- **Garçom de rodízio** — nunca deixa o prato vazio, não pergunta a cada 2 minutos, **observa e age no momento certo**
-
 ### O Pipeline de 3 Níveis
 
 ```
