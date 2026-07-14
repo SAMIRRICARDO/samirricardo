@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
 # Samir Ricardo
 
-**Staff AI Engineer · AI Systems Architect · Founder of VRASHOWS**
+**AI Systems Engineer · AI Systems Architect · Founder of VRASHOWS**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samir--ricardo-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/samir-ricardo-almeida-b23b3825b)
 [![Email](https://img.shields.io/badge/Email-contato@vrashows.com.br-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:contato@vrashows.com.br)
@@ -28,8 +28,8 @@ Fully autonomous job application system built on TypeScript + Playwright. Applie
 
 | Metric | Result |
 |---|---|
-| Applications submitted | 85+ across 3 platforms |
-| Truth Engine verification | 100% of confirmed applications carry objective evidence |
+| Applications submitted | 82+ across 3 platforms |
+| Evidence coverage | 100% of confirmed applications produce a structured TruthRecord |
 | Error categories | 15 categories with RCA and configurable retry policy |
 
 **→ [github.com/SAMIRRICARDO/vraxia-work-system](https://github.com/SAMIRRICARDO/vraxia-work-system)**
@@ -58,11 +58,6 @@ Three-tier event processing pipeline that monitors external signals and acts aut
 Traditional RAG indexes *what was written*. Human RAG indexes *how a person thinks and decides* — reconstructing reasoning patterns, not just retrieving text.
 
 Implemented in VRAXIA OS: enterprise platform with 8 departmental AI agents, 1,100+ indexed skills, and multi-tenant BYOK architecture.
-
-| Metric | Result |
-|---|---|
-| ↓ Inference cost reduction | **80%** |
-| ↑ Operational efficiency | **40%** |
 
 ---
 
