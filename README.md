@@ -5,7 +5,7 @@
 **AI Systems Engineer · AI Systems Architect · Founder of VRASHOWS**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samir--ricardo-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/samir-ricardo-almeida-b23b3825b)
-[![Email](https://img.shields.io/badge/Email-contato@vrashows.com.br-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:contato@vrashows.com.br)
+[![Email](https://img.shields.io/badge/Email-eliteasamir2gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:eliteasamir2gmail.com)
 [![Book](https://img.shields.io/badge/Amazon-O%20Maior%20Ativo-FF9900?logo=amazon&logoColor=white&style=flat-square)](https://a.co/d/0dTw8I9Y)
 
 </div>
